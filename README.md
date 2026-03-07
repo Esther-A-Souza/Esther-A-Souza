@@ -2,7 +2,7 @@
  </h1>
 <h2 align="center"> Seja bem-vindo ao meu perfil GitHub! </h2>
 
-<img width="500" height="500" alt="imagem_2026-03-07_014223727-removebg-preview" src="https://github.com/user-attachments/assets/332daa16-6317-4700-9226-e5ecc9154ec6" /> Estudante de Ciência da Computação
+<img width="30" height="30" alt="imagem_2026-03-07_014223727-removebg-preview" src="https://github.com/user-attachments/assets/332daa16-6317-4700-9226-e5ecc9154ec6" /> Estudante de Ciência da Computação
 
 ‎‎‎‎‎‎‎‎ㅤ
 
