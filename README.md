@@ -51,23 +51,7 @@
 
 ###
 
-<p align="left">Redes sociais:</p>
 
-###
-
-<div align="left">
-  <a href="www.linkedin.com/in/esther-alves-de-souza-a4bb163a7" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="esthersouzafcd@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://tryhackme.com/p/esthersouz" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tryhackme/default.svg" width="52" height="40" alt="tryhackme logo"  />
-  </a>
-</div>
-
-###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Esther-A-Souza/Esther-A-Souza/output/pacman-contribution-graph-dark.svg">
