@@ -8,26 +8,17 @@ Seja bem-vindo(a) ao meu perfil no GitHub!
 </h3>
 
 ---
-
-### 👩‍💻 Sobre mim
-
 <img width="25" src="https://github.com/user-attachments/assets/332daa16-6317-4700-9226-e5ecc9154ec6" />  
 Estudante de **Ciência da Computação**  
 
 ---
-
-### 🔎 Áreas de Interesse
-
-<img width="25" src="https://github.com/user-attachments/assets/67a3f4c6-c362-4b20-b5bb-01cd50efe94e" />
+Áreas de Interesse <img width="25" src="https://github.com/user-attachments/assets/67a3f4c6-c362-4b20-b5bb-01cd50efe94e" />
 
 🔒 Segurança da Informação  
 🌐 Redes de Computadores  
 
 ---
-
-### 🛠️ Tecnologias e Ferramentas
-
-<img width="25" src="https://github.com/user-attachments/assets/6be2e333-0304-42c5-98c4-460fa969a160" />
+Tecnologias e Ferramentas <img width="25" src="https://github.com/user-attachments/assets/6be2e333-0304-42c5-98c4-460fa969a160" />
 
 **📝 Linguagens**
 
