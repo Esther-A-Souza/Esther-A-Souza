@@ -6,11 +6,11 @@
 
 ‎‎‎‎‎‎‎‎ㅤ
 
-⋆✴︎˚｡⋆ Sempre em busca de algo novo para aprender ⊹₊⟡⋆
+˖⌕ ۫ . . . ﹫ *Sempre em busca de algo novo para aprender*
 
 ‎‎‎‎‎‎‎‎‎‎‎‎‎‎ㅤ
 
-💭Interesses:
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/6171469c-a9a6-4fb5-aa64-3ea58579d62c" /> Áreas de Interesses:
 
 🔒 Segurança da Informação
 
