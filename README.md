@@ -10,7 +10,7 @@
 
 ‎‎‎‎‎‎‎‎‎‎‎‎‎‎ㅤ
 
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/6171469c-a9a6-4fb5-aa64-3ea58579d62c" /> Áreas de Interesses:
+ <img width="500" height="500" alt="imagem_2026-03-07_003710483-removebg-preview" src="https://github.com/user-attachments/assets/67a3f4c6-c362-4b20-b5bb-01cd50efe94e" /> Áreas de Interesses:
 
 🔒 Segurança da Informação
 
