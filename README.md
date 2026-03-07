@@ -1,73 +1,72 @@
-<h1 align="center">
-Olá, me chamo Esther! 
-<img width="30" src="https://github.com/user-attachments/assets/c5329067-28bd-42bd-8681-afc7d2d8b7e0">
-</h1>
 
-<h3 align="center">
-Seja bem-vindo(a) ao meu perfil no GitHub!
-</h3>
+<h1 align="center">Olá, me chamo Esther! <img width="30" src="https://github.com/user-attachments/assets/c5329067-28bd-42bd-8681-afc7d2d8b7e0"> !</h1>
 
----
-<img width="25" src="https://github.com/user-attachments/assets/332daa16-6317-4700-9226-e5ecc9154ec6" />  
-Estudante de **Ciência da Computação**  
+###
 
----
-Áreas de Interesse <img width="25" src="https://github.com/user-attachments/assets/67a3f4c6-c362-4b20-b5bb-01cd50efe94e" />
+<h3 align="center">Seja bem-vindo(a) ao meu perfil no GitHub!</h3>
 
-🔒 Segurança da Informação  
-🌐 Redes de Computadores  
+###
 
----
-Tecnologias e Ferramentas <img width="25" src="https://github.com/user-attachments/assets/6be2e333-0304-42c5-98c4-460fa969a160" />
+<p align="left"><img width="25" src="https://github.com/user-attachments/assets/332daa16-6317-4700-9226-e5ecc9154ec6" />Estudante de graduação em Ciência da Computação</p>
 
-**📝 Linguagens**
+###
 
-`C` | `Python` | `Java`
+<p align="left"><img width="25" src="https://github.com/user-attachments/assets/67a3f4c6-c362-4b20-b5bb-01cd50efe94e" />Áreas de interesse:<br>Segurança da Informação<br>Redes de Computadores<br>Criptografia</p>
 
-**💻 Ferramentas**
+###
 
-`IntelliJ IDEA` | `VS Code`
+<p align="left"><img width="25" src="https://github.com/user-attachments/assets/6be2e333-0304-42c5-98c4-460fa969a160" />Tecnologias e Ferramentas:</p>
 
-**🐧 Conhecimentos**
+###
 
-Linux • Terminal • Bash
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="powershell logo"  />
+</div>
 
----
+###
 
-### 🚀 Tecnologias que utilizo
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=gamemakerstudio" height="40" alt="gamemakerstudio logo"  />
+</div>
 
-<p align="center">
+###
 
-<a href="https://www.gnu.org/software/bash/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" height="40"/>
-</a>
+<p align="left">Redes sociais:</p>
 
-<a href="https://www.cprogramming.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
-</a>
+###
 
-<a href="https://www.java.com" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
-</a>
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tryhackme/default.svg" width="52" height="40" alt="tryhackme logo"  />
+</div>
 
-<a href="https://www.linux.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
-</a>
+###
 
-<a href="https://www.postgresql.org" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Esther-A-Souza/Esther-A-Souza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Esther-A-Souza/Esther-A-Souza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Esther-A-Souza/Esther-A-Souza/output/pacman-contribution-graph.svg">
+</picture>
 
-<a href="https://www.python.org" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-</a>
-
-</p>
-
----
-
-### 📊 Linguagens mais utilizadas
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=esther-a-souza&show_icons=true&locale=en&layout=compact"/>
-</p>
+###
