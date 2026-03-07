@@ -18,7 +18,7 @@
 
 ‎‎‎‎‎‎‎‎ㅤ
 
-🛠️ Tecnologias e Ferramentas:
+<img width="30" height="30" alt="imagem_2026-03-07_014105360-removebg-preview" src="https://github.com/user-attachments/assets/6be2e333-0304-42c5-98c4-460fa969a160" /> Tecnologias e Ferramentas:
 
 📝Linguagens: ‘C’ | ‘Python’ | ‘Java’
 
