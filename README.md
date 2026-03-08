@@ -1,11 +1,8 @@
 
-<h1 align="center">Olá, me chamo Esther! <img width="30" src="https://github.com/user-attachments/assets/c5329067-28bd-42bd-8681-afc7d2d8b7e0"> </h1>
+<h1 align="center">Seja bem-vindo(a) ao meu perfil no GitHub! <img width="30" src="https://github.com/user-attachments/assets/c5329067-28bd-42bd-8681-afc7d2d8b7e0"> </h1>
 
 ###
 
-<h3 align="center">Seja bem-vindo(a) ao meu perfil no GitHub!</h3>
-
-###
 
 <p align="left"><img width="25" src="https://github.com/user-attachments/assets/332daa16-6317-4700-9226-e5ecc9154ec6" />Estudante de graduação em Ciência da Computação</p>
 
