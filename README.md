@@ -1,5 +1,5 @@
 
-<h1 align="center">Olá, me chamo Esther! <img width="30" src="https://github.com/user-attachments/assets/c5329067-28bd-42bd-8681-afc7d2d8b7e0"> !</h1>
+<h1 align="center">Olá, me chamo Esther! <img width="30" src="https://github.com/user-attachments/assets/c5329067-28bd-42bd-8681-afc7d2d8b7e0"> </h1>
 
 ###
 
