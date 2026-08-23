@@ -56,3 +56,6 @@
 </picture>
 
 ###
+
+<p style="color: blue; font-family: Arial;">Este é um texto azul e na fonte Arial.</p>
+
